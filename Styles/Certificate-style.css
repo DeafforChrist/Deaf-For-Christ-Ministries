@@ -1,0 +1,40 @@
+body {
+  background-color: #FDFDFD; /* Warm White */
+  font-family: 'Georgia', serif;
+  padding: 60px;
+  color: #333333; /* Charcoal Gray */
+}
+
+.certificate {
+  border: 6px solid #FFD700; /* Gold */
+  padding: 40px;
+  max-width: 700px;
+  margin: auto;
+  background-color: #FFFFFF;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #0057B7; /* Royal Blue */
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.recipient, .event, .date {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.signature-line {
+  margin-top: 40px;
+  font-size: 16px;
+  color: #006400; /* Deep Green */
+}
+
+

@@ -1,0 +1,54 @@
+body {
+  background-color: #FDFDFD; /* Warm White */
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  color: #333333; /* Charcoal Gray */
+}
+
+.flyer-container {
+  max-width: 600px;
+  margin: auto;
+  border: 2px solid #0057B7; /* Royal Blue */
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.logo {
+  display: block;
+  margin: 0 auto 20px;
+  width: 120px;
+}
+
+.event-title {
+  color: #0057B7;
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.event-date,
+.event-time,
+.event-location {
+  font-size: 18px;
+  text-align: center;
+  margin: 5px 0;
+  color: #006400; /* Deep Green */
+}
+
+.event-description {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.contact-info {
+  margin-top: 30px;
+  font-size: 14px;
+  text-align: center;
+  color: #FFD700; /* Gold */
+}
+
+

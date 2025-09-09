@@ -1,0 +1,50 @@
+body {
+  background-color: #FDFDFD;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0057B7;
+  color: #FDFDFD;
+  padding: 30px 20px;
+}
+
+.event-date {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+#countdown {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 40px auto;
+  max-width: 600px;
+}
+
+.time-box {
+  background-color: #FFD700;
+  color: #333333;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  width: 120px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.time-box span {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #333333;
+  color: #FDFDFD;
+  padding: 20px;
+  font-size: 14px;
+}
+

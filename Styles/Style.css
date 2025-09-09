@@ -1,0 +1,68 @@
+/* Set background and font */
+body {
+  background-color: #FDFDFD; /* Warm White */
+  color: #333333;            /* Charcoal Gray */
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+/* Style the heading */
+h1 {
+  color: #0057B7; /* Royal Blue */
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+/* Style the paragraph */
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* Style the image */
+img {
+  display: block;
+  margin: 20px auto;
+  border: 4px solid #006400; /* Deep Green */
+  border-radius: 8px;
+}
+
+/* Style the link */
+a {
+  display: inline-block;
+  background-color: #FFD700; /* Gold */
+  color: #333333;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: #006400; /* Deep Green */
+  color: #FDFDFD;            /* Warm White */
+}
+
+button {
+  background-color: #FFD700; /* Gold */
+  color: #333333;            /* Charcoal Gray */
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:active {
+  background-color: #006400; /* Deep Green */
+  color: #FDFDFD;            /* Warm White */
+}
+
+#thankYouMessage {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #0057B7; /* Royal Blue */
+}
+
